@@ -1,0 +1,5 @@
+1 . Upload students images in "smart_attendance\data\students" file path
+
+2 . Upload students data in "smart_attendance\data\students.csv" 
+
+3.  Use python sequential_attendance.py this command to run the model

@@ -1,0 +1,110 @@
+Date: 5/2/2026
+Time: 15:7
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 5/2/2026
+Time: 15:8
+Phone Number: +9600674961
+Message: Attendance Alert: mrito (Roll 8) was marked absent today.
+--------------------
+Date: 5/2/2026
+Time: 15:9
+Phone Number: +9600674961
+Message: Attendance Alert: rakesh (Roll 35) was marked absent today.
+--------------------
+Date: 5/2/2026
+Time: 15:10
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 5/2/2026
+Time: 15:11
+Phone Number: +9600674961
+Message: Attendance Alert: mrito (Roll 8) was marked absent today.
+--------------------
+Date: 5/2/2026
+Time: 15:12
+Phone Number: +9600674961
+Message: Attendance Alert: rakesh (Roll 35) was marked absent today.
+--------------------
+Date: 5/2/2026
+Time: 15:12
+Phone Number: +9600674961
+Message: Attendance Alert: shyan (Roll 62) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 9:8
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 9:9
+Phone Number: +9600674961
+Message: Attendance Alert: mrito (Roll 8) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 9:11
+Phone Number: +9600674961
+Message: Attendance Alert: rakesh (Roll 35) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 9:12
+Phone Number: +9600674961
+Message: Attendance Alert: sanjay (Roll 2) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 9:14
+Phone Number: +9600674961
+Message: Attendance Alert: shyan (Roll 62) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 9:15
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 9:16
+Phone Number: +9600674961
+Message: Attendance Alert: mrito (Roll 8) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 10:26
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 10:55
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 10:57
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 10:59
+Phone Number: +9600674961
+Message: Attendance Alert: mrito (Roll 8) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 11:56
+Phone Number: +9600674961
+Message: Attendance Alert: mrito (Roll 8) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 11:58
+Phone Number: +9600674961
+Message: Attendance Alert: deepak (Roll 41) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 12:0
+Phone Number: +9600674961
+Message: Attendance Alert: mrito (Roll 8) was marked absent today.
+--------------------
+Date: 6/2/2026
+Time: 12:1
+Phone Number: +9600674961
+Message: Attendance Alert: rakesh (Roll 35) was marked absent today.
+--------------------
